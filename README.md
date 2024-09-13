@@ -1,4 +1,9 @@
-# Astro Starter Kit: Basics
+# THE LAST OF US WEBSITE  it's not finished, but it ended up like this :V
+# DESIGN BASED THE PAGE https://www.behance.net/gallery/91067215/WEB-DESIGN-Teaser-website-The-Last-Of-US-Part-II
+
+
+
+# Astro TUTORIAL
 
 ```sh
 npm create astro@latest -- --template basics
@@ -22,7 +27,11 @@ Inside of your Astro project, you'll see the following folders and files:
 │   └── favicon.svg
 ├── src/
 │   ├── components/
-│   │   └── Card.astro
+        ├── sections/
+            └── History.
+            └── Mecanics.astro
+│   │   └── Home.astro
+        └── Navbar.astro
 │   ├── layouts/
 │   │   └── Layout.astro
 │   └── pages/
